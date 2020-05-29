@@ -1,2 +1,2 @@
-# FivemK9 Working for online players. 
-## Message me on Discord for the script(NeighbourVadim#7157). 
+# FiveM K9 Working for online roleplay use. 
+## Message me on Discord for the script(FivemScripter#4955).
